@@ -6,6 +6,8 @@ how to install? -> build by your own hands with git clone command or just watch 
 
 - connects to account via JWT token
 - retrieves account information
+- auto roster choose by most high power
+- auto maps choosing for ban (most weak maps for choosed roster)
 - rushes circuits in PVE mode and stops if it meet opponent with rating above own roster
 - write all actions to log
 

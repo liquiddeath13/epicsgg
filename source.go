@@ -41,15 +41,15 @@ func main() {
 						battleResult := doBattle(me, opponent.UtPveRosterID, 35, stage.ID)
 						if battleResult.Data.Game.User1.Winner {
 							points := battleResult.Data.Game.User1.Points
-							if points > 0 {
+							//if points > 0 {
 								log.Println(fmt.Sprintf("win! +%d points", points))
 								log.Println(battleResult.Data.Game.Replay)
 								winsCounter++
-							} else {
+							//} else {
 								//FIXME: IT DOES ONLY ONE BATTLE PER TEAM (CHECK BATTLE USER, MAYBE SECOND?)
 								//log.Println("seems like we already destroyed that team. going to the next...")
 								//break
-							}
+							//}
 						}
 						time.Sleep(5 * time.Second)
 					}

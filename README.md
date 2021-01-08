@@ -1,4 +1,4 @@
-# epics.gg RUSH bot (experimental)
+# epics.gg RUSH bot (experimental) [FOR EDUCATIONAL PURPOSES ONLY!!! YOU WILL BE BANNED IF WILL USE THIS OFTEN]
 
 how to install? -> build by your own hands with git clone command or just watch code and hate it as much as you can
 

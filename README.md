@@ -1,5 +1,7 @@
 # epics.gg RUSH bot (experimental)
 
+how to install? -> build by your own hands with git clone command or just watch code and hate it as much as you can
+
 # functionality for v1:
 
 - connects to account via JWT token
